@@ -1,8 +1,10 @@
+# Tugas UAS Pengkodean dan Pemrograman
+
 Nama: Raihanah Shafa Shabirah
 
 NIM : 12030122130136
 # Analisis Data Penjualan Mochi dan Egg Tart
-    Disajikan data mengenai penjualan mochi dan egg tart dalam bentuk csv pada file diatas, lakukaan lah analisis berikut!
+Disajikan data mengenai penjualan mochi dan egg tart dalam bentuk csv pada file diatas, lakukaan lah analisis berikut!
 1. Visualisasikan analisis data penjualan harian
 2. Visualisasikan analisis pendapatan harian
 3. Visualisasikan analisis regresi linear untuk mochi
